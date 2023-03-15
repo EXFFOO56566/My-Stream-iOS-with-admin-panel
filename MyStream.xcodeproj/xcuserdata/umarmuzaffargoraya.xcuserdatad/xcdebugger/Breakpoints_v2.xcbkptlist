@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E89D2A0F-6211-45BD-910B-69DC4183DAC4"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "453DBE6C-203E-40AD-9B8E-61BBD6B5178B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyStream/Configs.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "218"
+            endingLineNumber = "218"
+            landmarkName = "sendPushNotification(currentUser:pushMess:textColumn:obj:userPointerColumn:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DEDCA30E-1101-4AB3-81AB-8B5DD018525E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyStream/Configs.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "228"
+            endingLineNumber = "228"
+            landmarkName = "sendPushNotification(currentUser:pushMess:textColumn:obj:userPointerColumn:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DEDCA30E-1101-4AB3-81AB-8B5DD018525E - e6aad78f5d2432a2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.PFObject&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in (extension in MyStream):__C.UIViewController.sendPushNotification(currentUser: __C.PFUser, pushMess: Swift.String, textColumn: Swift.String, obj: __C.PFObject, userPointerColumn: Swift.String) -&gt; ()"
+                  moduleName = "MyStream"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/umarmuzaffargoraya/Desktop/Rozee.pk%20Projects/iOS%20Projects/MyStream-ios/mystreamios/MyStream/Configs.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "228"
+                  endingLineNumber = "228"
+                  offsetFromSymbolStart = "4393">
+               </Location>
+               <Location
+                  uuid = "DEDCA30E-1101-4AB3-81AB-8B5DD018525E - b67acf7879f43eb4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Any&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 (Swift.Optional&lt;__C.PFObject&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in (extension in MyStream):__C.UIViewController.sendPushNotification(currentUser: __C.PFUser, pushMess: Swift.String, textColumn: Swift.String, obj: __C.PFObject, userPointerColumn: Swift.String) -&gt; ()"
+                  moduleName = "MyStream"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/umarmuzaffargoraya/Desktop/Rozee.pk%20Projects/iOS%20Projects/MyStream-ios/mystreamios/MyStream/Configs.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "229"
+                  endingLineNumber = "229"
+                  offsetFromSymbolStart = "320">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F143A698-DE96-4D65-AA18-68081E0EB285"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyStream/Configs.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "230"
+            endingLineNumber = "230"
+            landmarkName = "sendPushNotification(currentUser:pushMess:textColumn:obj:userPointerColumn:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "12598232-F8AC-4E1E-A8A8-7563E6D844AC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyStream/Configs.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "232"
+            endingLineNumber = "232"
+            landmarkName = "sendPushNotification(currentUser:pushMess:textColumn:obj:userPointerColumn:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
